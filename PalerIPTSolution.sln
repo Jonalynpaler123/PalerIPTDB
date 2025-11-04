@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalerYouTubeViewer", "PalerYouTubeViewer\PalerYouTubeViewer.csproj", "{E11AC2E3-B499-4A7F-98DB-B9AF6464B40D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalerDomain", "PalerDomain\PalerDomain.csproj", "{F69F4C45-9467-4102-886F-F4757ACA3DE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalerFramework", "PalerFramework\PalerFramework.csproj", "{1242ABC1-5B53-4C00-B7FE-853F0036595F}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "PalerData", "PalerData\PalerData.sqlproj", "{69900F8E-C495-4E4D-96A8-EAF7FEB181D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalerWpfApp", "PalerWpfApp\PalerWpfApp.csproj", "{F040B6C4-621F-4424-A8E4-997D6A0B7513}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E11AC2E3-B499-4A7F-98DB-B9AF6464B40D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E11AC2E3-B499-4A7F-98DB-B9AF6464B40D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E11AC2E3-B499-4A7F-98DB-B9AF6464B40D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E11AC2E3-B499-4A7F-98DB-B9AF6464B40D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F69F4C45-9467-4102-886F-F4757ACA3DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69F4C45-9467-4102-886F-F4757ACA3DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69F4C45-9467-4102-886F-F4757ACA3DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69F4C45-9467-4102-886F-F4757ACA3DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1242ABC1-5B53-4C00-B7FE-853F0036595F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1242ABC1-5B53-4C00-B7FE-853F0036595F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1242ABC1-5B53-4C00-B7FE-853F0036595F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1242ABC1-5B53-4C00-B7FE-853F0036595F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69900F8E-C495-4E4D-96A8-EAF7FEB181D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69900F8E-C495-4E4D-96A8-EAF7FEB181D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69900F8E-C495-4E4D-96A8-EAF7FEB181D7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{69900F8E-C495-4E4D-96A8-EAF7FEB181D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69900F8E-C495-4E4D-96A8-EAF7FEB181D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69900F8E-C495-4E4D-96A8-EAF7FEB181D7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F040B6C4-621F-4424-A8E4-997D6A0B7513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F040B6C4-621F-4424-A8E4-997D6A0B7513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F040B6C4-621F-4424-A8E4-997D6A0B7513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F040B6C4-621F-4424-A8E4-997D6A0B7513}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57939C43-A17A-475F-A9DB-6DDCA467BCB2}
+	EndGlobalSection
+EndGlobal
